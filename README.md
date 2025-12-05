@@ -1,7 +1,7 @@
 # STAR-OPT — Stackelberg-based Threat Analysis & Risk Optimization
 
 **STAR-OPT** is a Stackelberg-based framework for attacker-aware cyber risk assessment and defensive optimization.  
-It models adversarial behavior over a multi-stage **attack graph** and computes the optimal set of countermeasures under:
+It models adversarial behavior over a multi-stage attack graph and computes the optimal set of countermeasures under:
 
 - **Risk threshold constraint** → minimize cost  
 - **Budget constraint** → minimize residual risk  
